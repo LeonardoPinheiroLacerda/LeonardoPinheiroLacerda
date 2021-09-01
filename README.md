@@ -17,22 +17,20 @@
 
 <h2>Languages and tools:</h2>
 
-<div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' align='left'/> 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg' height='60px' align='left'/> 
-  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' align='left'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' height='60px' align='left'/>
+<div style='display: inline'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg' height='60px' width='65px'/> 
+  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' height='60px' width='65px'/>
 </div>
-
-&nbsp;&nbsp;&nbsp;
 
 <h2>Contacts: </h2>
 <div>
