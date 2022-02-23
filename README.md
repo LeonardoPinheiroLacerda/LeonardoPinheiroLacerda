@@ -6,7 +6,15 @@
 - 🌟 Fun fact: In my free time I love to play video games.
 <!-- - ➕ For more information click <a href='https://LeonardoPinheiroLacerda.github.io'>here</a>. -->
 
+<h2>Fun repositories</h2>
 
+- <a href="https://github.com/LeonardoPinheiroLacerda/TalkToStrangersChat" target="_blank">TalkToStrangersChat</a> (A chat group developed on spring boot and deployed on heroku).
+   - You can access the app <a href="https://talktostrangerschat.herokuapp.com/" target="_blank">here</a>.
+- <a href='https://github.com/LeonardoPinheiroLacerda/I18N-switch' target="_blank">I18N-switch </a> (A simple i18n component for websites).
+- <a href='https://github.com/LeonardoPinheiroLacerda/GameOfLife' target="_blank">GameOfLife </a> (A zero-player game developed by John Horton Conway in 1970).
+  - You can access the github pages environment <a href="https://leonardopinheirolacerda.github.io/GameOfLife/" target="_blank">here</a>.
+- <a href='https://github.com/LeonardoPinheiroLacerda/bongoCat' target="_blank">BongoCat</a> (A game inspired by <a href="https://bongo.cat" target='_blank'>bongo.cat</a>).
+   - You can access the github pages environment <a href="https://leonardopinheirolacerda.github.io/bongoCat/" target="_blank">here</a>.
 
 <h2>Stats:</h2>
 
@@ -21,8 +29,8 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg' height='60px' width='65px'/> 
   <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' height='60px' width='65px'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='60px' width='65px'/>
@@ -30,6 +38,10 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg' height='60px' width='65px'/>
+
 </div>
 
 <h2>Contacts: </h2>
