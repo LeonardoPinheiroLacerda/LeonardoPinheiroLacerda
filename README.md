@@ -8,6 +8,7 @@
 
 <h2>Fun repositories</h2>
 
+- <a href="https://github.com/LeonardoPinheiroLacerda/Spring-Security-JWT-Demo" target="_blank">SpringBootJWTDemo</a> (A Spring Security aplication example to use as reference).
 - <a href="https://github.com/LeonardoPinheiroLacerda/TalkToStrangersChat" target="_blank">TalkToStrangersChat</a> (A chat group developed on spring boot and deployed on heroku).
    - You can access the app <a href="https://talktostrangerschat.herokuapp.com/" target="_blank">here</a>.
 - <a href='https://github.com/LeonardoPinheiroLacerda/I18N-switch' target="_blank">I18N-switch </a> (A simple i18n component for websites).
