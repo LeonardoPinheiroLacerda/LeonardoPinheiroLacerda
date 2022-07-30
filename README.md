@@ -1,7 +1,7 @@
 <h2>Hello there 👋, my name is Leonardo!</h2>
 
 - 💻 I'm currently working on back-end using PHP.
-- 🌱 I'm improving myself on Spring boot.
+- 🌱 I'm improving myself on Spring boot and node.js.
 - 🏁 My goal is to become the best!
 - 🌟 Fun fact: In my free time I love to play video games.
 <!-- - ➕ For more information click <a href='https://LeonardoPinheiroLacerda.github.io'>here</a>. -->
@@ -9,6 +9,11 @@
 <h2>Fun repositories</h2>
 
 - <a href="https://github.com/LeonardoPinheiroLacerda/TaskManager" target="_blank">TaskManager</a> (A full stack project to demonstrate my knowledge using Spring boot for Backend, Angular for Frontend and Docker to manage its containers).
+- <a href="https://github.com/LeonardoPinheiroLacerda/AnimePoll" target="_blank">AnimePoll</a> A Spring MVC application that consumes an anime metadata API to build a dinamic poll with the current airing animes. Every season the application will update itself with the latest animes.
+The application uses thymeleaf to render the pages and the bootstrap framework to styling.
+  - You can access the app <a href="https://anime-poll.herokuapp.com/">here</a>.
+- <a href="https://github.com/LeonardoPinheiroLacerda/MyPokedex" target="_blank">MyPokedex</a> A pokedex rendered only using CSS, it consumes the pokeAPI to search for pokemons data.
+  - You can access the app <a href="https://leonardopinheirolacerda.github.io/MyPokedex/">here</a>
 - <a href="https://github.com/LeonardoPinheiroLacerda/Spring-Security-Demo" target="_blank">SpringBootDemo</a> (A Spring Security application example to use as reference).
 - <a href="https://github.com/LeonardoPinheiroLacerda/TalkToStrangersChat" target="_blank">TalkToStrangersChat</a> (A chat group developed on spring boot and deployed on heroku).
    - You can access the app <a href="https://talktostrangerschat.herokuapp.com/" target="_blank">here</a>.
@@ -36,6 +41,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='60px' width='65px'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg' height='60px' width='65px'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' height='60px' width='65px'/>
