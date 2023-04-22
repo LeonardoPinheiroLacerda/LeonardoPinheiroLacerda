@@ -1,10 +1,10 @@
 <h2>Hello there 👋, my name is Leonardo!</h2>
 
-- 💻 I'm currently working on back-end using PHP.
+- 💻 I'm currently working on back-end using Spring boot framework.
 - 🌱 I'm improving myself on Spring boot and node.js.
 - 🏁 My goal is to become the best!
 - 🌟 Fun fact: In my free time I love to play video games.
-<!-- - ➕ For more information click <a href='https://LeonardoPinheiroLacerda.github.io'>here</a>. -->
+- ➕ For more information click <a href='https://LeonardoPinheiroLacerda.github.io'>here</a>.
 
 <h2>Fun repositories</h2>
 
